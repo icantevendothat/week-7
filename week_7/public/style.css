@@ -1,0 +1,22 @@
+  body{
+    background-color: lightblue;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Luckiest Guy', cursive;
+    color: black;
+  }
+ 
+  .button {
+    background-color: #ffeba1;
+    display: block;
+    margin: 0 auto;
+    padding: 10px 20px;
+    text-align: center;
+  }
+  
+  .input {
+    background-color: white;
+    display: block;
+    margin: 0 auto;
+    padding: 5px, 5px;
+    text-align: center;
+  }
